@@ -10,7 +10,8 @@
       "Bash(python3 -m jupyter nbconvert --to notebook --execute --inplace notebooks/04_hypothesis.ipynb)",
       "Bash(python3 -m jupyter nbconvert --to script notebooks/04_hypothesis.ipynb --stdout)",
       "Bash(python3)",
-      "Bash(python3 -m jupyter nbconvert --to notebook --execute --inplace notebooks/05_strategy.ipynb)"
+      "Bash(python3 -m jupyter nbconvert --to notebook --execute --inplace notebooks/05_strategy.ipynb)",
+      "Bash(python3 -m jupyter nbconvert --to script notebooks/05_strategy.ipynb --stdout)"
     ]
   }
 }
